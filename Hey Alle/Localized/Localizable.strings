@@ -1,0 +1,23 @@
+/* 
+  TabbarString.strings
+  Hey Alle
+
+  Created by Abhishek kapoor on 10/10/23.
+  
+*/
+
+"HeyAlle.Tabbar.share" = "share";
+"HeyAlle.Tabbar.info" = "info";
+"HeyAlle.Tabbar.delete" = "delete";
+
+"HeyAlle.Tabbar.no.image.found" = "No Image Found";
+// Info View
+"HeyAlle.Tabbar.read.less" = "Read Less" ;
+
+"HeyAlle.Tabbar.lorem.text" =  "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit";
+"HeyAlle.Tabbar.description" = "Description";
+"HeyAlle.Tabbar.edit" = "Edit";
+"HeyAlle.Tabbar.read.less" = "Read Less";
+"HeyAlle.Tabbar.read.more" = "Read Less";
+"HeyAlle.Tabbar.read.collection" = "Collections";
+"HeyAlle.Tabbar.read.enter.text" = "Enter Text";
